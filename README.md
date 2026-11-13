@@ -10,16 +10,15 @@ Hands-on lab portfolio based on East Carolina University information technology 
 |---|---|---|
 | [Windows 10 VMware Lab](Windows-10-VMware-Lab.md) | VM setup, snapshots, local account verification | Completed with photos |
 | [Linux File Management](linux-file-management.jpg) | SSH, directories, copy/move/list files | Screenshot evidence available; documentation in progress |
-| Linux Permissions & Access Control | umask, setgid, chmod, group ownership | Guided exercise available; completion evidence pending |
+| [Linux Permissions & Access Control](Linux-Permissions-Lab.md) | Ubuntu (WSL), group ownership, setgid, access verification | Completed with photo |
 | [Network Device Configuration](putty-network-console.jpg) | PuTTY serial console, device configuration | Screenshot evidence available; detailed configuration pending |
 | [Bash Scripting](bash-lab-grade.jpg) | Script execution and validation | Screenshot of graded 100/100 lab available |
 
 ## Next steps
 
-1. Reproduce and document the Linux permissions exercise in an authorized VM.
-2. Add sanitized screenshots showing commands, output, and successful validation.
-3. Add a troubleshooting note to each project explaining an issue and how it was resolved.
-4. Expand with an Active Directory/Windows support lab.
+1. Add screenshots showing commands, output, and successful validation for the remaining projects.
+2. Add troubleshooting notes to the remaining projects.
+3. Expand with an Active Directory/Windows support lab.
 
 *Do not upload course handouts, private credentials, institutional network details, or third-party content without permission.*
 
@@ -29,4 +28,3 @@ Hands-on lab portfolio based on East Carolina University information technology 
 - [Bash lab grading output showing 100/100.](bash-lab-grade.jpg)
 - [PuTTY network device console sessions.](putty-network-console.jpg)
 
-The Linux permissions project currently has instructions only, not a verified completion screenshot.
