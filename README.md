@@ -1,6 +1,6 @@
 # IT Support & Cybersecurity Lab Portfolio
 
-Hands-on lab portfolio based on East Carolina University information technology coursework. Projects document Windows virtualization, Linux command-line administration, access control, networking, and Bash scripting.
+This portfolio includes personal IT support and cybersecurity home labs and selected coursework from East Carolina University. My home labs include Windows DNS troubleshooting in VMware and Linux permissions testing in Ubuntu on WSL.
 
 > **Evidence note:** Some entries are based on guided exercise instructions and are labeled as *reproduction pending* until completed outputs are documented. Screenshots of actual work should be added only when they match the project.
 
