@@ -13,12 +13,12 @@ This portfolio includes personal IT support and cybersecurity home labs and sele
 | [Linux Permissions & Access Control](Linux-Permissions-Lab.md) | Ubuntu (WSL), group ownership, setgid, access verification | Completed with photo |
 | [Network Device Configuration](putty-network-console.jpg) | PuTTY serial console, device configuration | Screenshot evidence available; detailed configuration pending |
 | [Bash Scripting](bash-lab-grade.jpg) | Script execution and validation | Screenshot of graded 100/100 lab available |
+| [Active Directory Domain Login Lab](Active-Directory-Lab.md) | Windows domain sign-in and account verification | Verified with screenshot |
 
 ## Next steps
 
 1. Add screenshots showing commands, output, and successful validation for the remaining projects.
 2. Add troubleshooting notes to the remaining projects.
-3. Expand with an Active Directory/Windows support lab.
 
 *Do not upload course handouts, private credentials, institutional network details, or third-party content without permission.*
 
@@ -27,4 +27,3 @@ This portfolio includes personal IT support and cybersecurity home labs and sele
 - [Linux terminal showing file copying and directory listing.](linux-file-management.jpg)
 - [Bash lab grading output showing 100/100.](bash-lab-grade.jpg)
 - [PuTTY network device console sessions.](putty-network-console.jpg)
-
